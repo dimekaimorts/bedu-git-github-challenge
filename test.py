@@ -10,4 +10,7 @@ class NLBOperation():
     
     def info(self):
         print("This class has two methods")
+        
+    def other(self):
+        print("Another method added from branch refactoring/QG")
     
