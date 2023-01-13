@@ -13,4 +13,9 @@ class NLBOperation():
         
     def other(self):
         print("Another method added from branch refactoring/QG")
+        
+        
+class OtherOne():
+    def __init__(self):
+        print("Hello, world!")
     
